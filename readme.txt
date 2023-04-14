@@ -5,5 +5,4 @@
 -> Thirdly fill the textboxs using our database 
 -> A selenium and openpyxl project on python3
 
-# TeDi #
 **********-----------------------------**********
